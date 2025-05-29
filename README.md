@@ -17,12 +17,5 @@ A collection of tools and scripts designed to support Roblox developers, scripte
 - Test game mechanics efficiently during development
 - Explore safe modding approaches within your own games
 
-## 🚫 Disclaimer
 
-This repository **does not support or encourage any form of cheating, exploiting, or unauthorized access**. It is intended solely for legitimate use by creators working within their own Roblox experiences or in learning environments.
 
-Please follow all applicable [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Terms-of-Use) and community standards.
-
----
-
-> Empowering developers through knowledge, not exploits.
